@@ -160,8 +160,8 @@ body{
 
     .box-1{
         position: absolute;
-        top: 110px;
-        left: 130px;
+        top: 70px;
+        left: 80px;
         z-index: 1;
     }
     .box-1 video{
